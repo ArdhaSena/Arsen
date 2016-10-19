@@ -3,12 +3,12 @@ DES implementation with java
 
 #Kelompok
 Tugas Kelompok kriptografi yang terdiri dari :
-Ahmad Raf Sanjani (1411501933)
-Kaishananda (1411502980)
-Destriyani (1411501792)
-Ardha Sena (1411501875)
-Agung Yuliyanto (1411502550)
-Rizki Dharmawan Pohan (141150)
+Ahmad Raf Sanjani 
+Kaishananda
+Destriyani 
+Ardha Sena 
+Agung Yuliyanto 
+Rizki Dharmawan Pohan 
 
 #Pengertian Source Code
 File SubKey.java
